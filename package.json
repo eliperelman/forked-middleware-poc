@@ -1,0 +1,22 @@
+{
+  "name": "@neutrinojs/fork",
+  "version": "7.3.1",
+  "description": "TODO",
+  "main": "index.js",
+  "keywords": [
+    "neutrino",
+    "neutrino-middleware",
+    "TODO"
+  ],
+  "author": "Eli Perelman <eli@eliperelman.com>",
+  "license": "MPL-2.0",
+  "repository": "https://github.com/mozilla-neutrino/neutrino-dev/tree/master/packages/fork",
+  "homepage": "https://neutrino.js.org",
+  "bugs": "https://github.com/mozilla-neutrino/neutrino-dev/issues",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "peerDependencies": {
+    "neutrino": "^7.0.0"
+  }
+}
